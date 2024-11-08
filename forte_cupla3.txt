@@ -1,0 +1,4 @@
+f_total_x3 = 4.8316e+09
+f_total_y3 = -1.4390e+07
+f_total_z3 =   1.2308e+08
+f_total3 = 4.8332e+09

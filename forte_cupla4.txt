@@ -1,0 +1,4 @@
+f_total_x4 = 2.7092e+09
+f_total_y4 = -1.1523e+08
+f_total_z4 = -7.9367e+06
+f_total4 = 2.7116e+09

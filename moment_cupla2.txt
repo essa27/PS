@@ -1,0 +1,4 @@
+m_total_x2 = 7.4674e+07
+m_total_y2 = 2.0486e+11
+m_total_z2 = -5.5309e+08
+m_total2 = 2.0486e+11

@@ -1,0 +1,4 @@
+m_total_x1 = -1.5494e+11
+m_total_y1 = 1.0784e+11
+m_total_z1 = -5.5313e+08
+m_total1 = 1.8878e+11

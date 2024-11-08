@@ -1,0 +1,4 @@
+f_total_x5 = 3.2379e+08
+f_total_y5 = -6.7549e+05
+f_total_z5 =  2.2011e+08
+f_total5 = 3.9152e+08

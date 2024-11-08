@@ -1,0 +1,4 @@
+m_total_x3 = 3.8511e+07
+m_total_y3 = -5.1164e+09
+m_total_z3 = -6.6618e+09
+m_total3 = 8.3999e+09
